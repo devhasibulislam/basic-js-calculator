@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6{
     border-left: 1px solid aliceblue;
 }
 
-.op__btn{
+.op__btns button{
     border-radius: 50%;
     height: 50px;
     width: 50px;
